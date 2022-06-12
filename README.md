@@ -19,5 +19,5 @@ instal=> ls
 
 intal=> git pull
 
-instal= > python bet.py
+instal= > python betenc.py
 ```
